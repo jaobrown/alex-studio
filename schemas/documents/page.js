@@ -36,7 +36,14 @@ export default {
       name: "content",
       type: "array",
       title: "Page sections",
-      of: [{ type: "hero" }, { type: "about" }],
+      of: [
+        { type: "hero" },
+        { type: "about" },
+        { type: "threeColumnCta" },
+        { type: "experiences" },
+        { type: "educations" },
+        { type: "featuredWork" },
+      ],
     },
   ],
   preview: {

@@ -43,12 +43,12 @@ export default {
       fieldset: "link",
     },
     {
-      title: "Kind",
-      name: "kind",
+      title: "Style",
+      name: "style",
       type: "string",
       options: {
         layout: "radio",
-        list: ["button", "link"],
+        list: ["stripes", "solid", "outline"],
       },
     },
   ],

@@ -10,6 +10,11 @@ export default {
   ],
   fields: [
     {
+      title: "Label",
+      name: "label",
+      type: "string",
+    },
+    {
       title: "Heading",
       name: "heading",
       type: "string",

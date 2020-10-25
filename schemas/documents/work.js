@@ -45,6 +45,12 @@ export default {
       fieldset: "workDetails",
     },
     {
+      title: "Featured Image",
+      name: "featuredImage",
+      type: "image",
+      fieldset: "workDetails",
+    },
+    {
       title: "Content",
       name: "content",
       type: "array",
