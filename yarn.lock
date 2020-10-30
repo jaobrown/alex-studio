@@ -7153,6 +7153,12 @@ sanity-diff-patch@^1.0.9:
   dependencies:
     diff-match-patch "^1.0.5"
 
+sanity-plugin-dashboard-widget-document-list@^0.0.11:
+  version "0.0.11"
+  resolved "https://registry.npmjs.org/sanity-plugin-dashboard-widget-document-list/-/sanity-plugin-dashboard-widget-document-list-0.0.11.tgz#1533a7d35f95f1265cb4777dac770dfd53a426cb"
+  dependencies:
+    lodash "^4.17.15"
+
 sanity-plugin-dashboard-widget-netlify@^1.0.1:
   version "1.0.1"
   resolved "https://registry.npmjs.org/sanity-plugin-dashboard-widget-netlify/-/sanity-plugin-dashboard-widget-netlify-1.0.1.tgz#e510e40e05b9bcfdf11a4a2affed590e191bb93b"

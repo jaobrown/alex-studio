@@ -14,5 +14,23 @@ export default {
         ],
       },
     },
+    {
+      name: "document-list",
+      options: {
+        title: "Recently edited pages",
+        order: "_updatedAt desc",
+        limit: 5,
+        types: ["page"],
+      },
+    },
+    {
+      name: "document-list",
+      options: {
+        title: "Recently edited work",
+        order: "_updatedAt desc",
+        limit: 5,
+        types: ["work"],
+      },
+    },
   ],
 };
