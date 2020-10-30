@@ -15,6 +15,12 @@ export default {
       type: "string",
     },
     {
+      title: "Gorgeous Photo",
+      name: "photo",
+      type: "image",
+      fieldset: "content",
+    },
+    {
       title: "Heading",
       name: "heading",
       type: "string",
